@@ -22,6 +22,7 @@ flutter run
 🗂️ هيكلة مبسطة
 
 
+```text
 lib/
  ├─ main.dart
  ├─ features/auth/
@@ -29,6 +30,8 @@ lib/
  │   └─ widgets/login_form.dart
  └─ core/
      └─ utils/validators.dart
+```
+
 
      
 
@@ -41,5 +44,6 @@ lib/
 📄 الرخصة
 
 MIT – مفتوح المصدر.
+
 
 
