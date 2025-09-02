@@ -19,31 +19,11 @@
 flutter pub get  
 flutter run  
 
-🗂️ هيكلة مبسطة
-
-
-```text
-lib/
- ├─ main.dart
- ├─ features/auth/
- │   ├─ presentation/login_page.dart
- │   └─ widgets/login_form.dart
- └─ core/
-     └─ utils/validators.dart
-```
-
-
-     
-
-🖼️ لقطات شاشة (اختياري)
-
-شاشة تسجيل الدخول.
-
-التحقق من صحة الإدخال.
 
 📄 الرخصة
 
 MIT – مفتوح المصدر.
+
 
 
 
